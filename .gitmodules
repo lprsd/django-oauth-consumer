@@ -1,0 +1,3 @@
+[submodule "oauthlib"]
+	path = oauthlib
+	url = git://github.com/idangazit/oauthlib.git
